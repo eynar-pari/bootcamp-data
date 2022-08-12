@@ -1,4 +1,3 @@
-import streamlit as st 
 from collections import namedtuple
 import altair as alt
 import math
@@ -15,5 +14,5 @@ If you want to split the components of a string into a list you can do that easi
 
 
 with st.echo(code_location='below'):
-   string = “hello world”
+   string = "hello world"
    string.split()
