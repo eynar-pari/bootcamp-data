@@ -17,12 +17,10 @@ The Walrus or := operator is one of the latest additions to python 3.8. It is an
 """
 
 
-
 with st.echo(code_location='below'):
    Mylist = [1,2,3]
    if(l := len(mylist) > 2)
-   print(l)
-
+   
 
 
 st.write("2. Splitting a string")
