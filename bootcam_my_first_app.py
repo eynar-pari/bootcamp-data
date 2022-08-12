@@ -21,6 +21,7 @@ with st.echo(code_location='below'):
    string = "hello world"
    string.split()
    
+st.markdown("texto en markdown")
 
 
 st.write("2. Splitting a string")
@@ -33,3 +34,6 @@ If you want to split the components of a string into a list you can do that easi
 with st.echo(code_location='below'):
    string = "hello world"
    string.split()
+
+
+   
