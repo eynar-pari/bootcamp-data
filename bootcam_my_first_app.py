@@ -3,8 +3,11 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
+import numpy as np
 
-st.write("HELLO FROM THE MOJIX BOOTCAMP")
+st.title('Class 2 > Mojix bootcamp')
+
+st.write("Tutorial")
 
 st.write("Splitting a string")
 
